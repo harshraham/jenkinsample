@@ -1,1 +1,1 @@
-print('xyza')
+print('xyz')
